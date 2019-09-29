@@ -1,4 +1,6 @@
 # Preface
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Ftinjis.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelcoyote%2Ftinjis?ref=badge_shield)
+
 
 We're really happy that you're considering to join us! Here's a challenge that will help us understand your skills and serve as a starting discussion point for the interview.
 
@@ -47,3 +49,7 @@ and the app should build and start running (after a few minutes when gradle does
 1. We will use your scripts to deploy both services to our Kubernetes cluster.
 2. Run the pay endpoint on Antaeus to try and pay the invoices using your service.
 3. Fetch all the invoices from Antaeus and confirm that roughly 50% (remember, your app should randomly fail on some of the invoices) of them will have status "PAID".
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Ftinjis.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmichaelcoyote%2Ftinjis?ref=badge_large)
